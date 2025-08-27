@@ -220,11 +220,26 @@
 // }
 
 // 15-Masala;
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
 
-if (a > b) {
-    alert("a soni chiqsin", a)
-} else {
-    alert("b sonini chiqsin", b)
-}
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if (a > b) {
+//     alert("a soni chiqsin", a)
+// } else {
+//     alert("b sonini chiqsin", b)
+// }
+
+// 17-Masala;
+
+// let a = 16;
+// let b = 10;
+
+// let x = b;
+// let y = a;
+
+// let x1 = x;
+// let y1 = y;
+
+// console.log(x1, y1);
+
