@@ -243,3 +243,14 @@
 
 // console.log(x1, y1);
 
+// 18-Masala;
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+
+if (a !== b) {
+     console.log("a + b =",a + b);
+} else {
+    console.log("O ga teng bo'slin", 0);
+    
+}
