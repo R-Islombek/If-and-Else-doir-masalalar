@@ -207,4 +207,14 @@
 
 // console.log("katta", katta, "kichik", kichik);
 
+// 14-Masala;
 
+// let a = prompt("a sonini toping");
+// let b = prompt("b sonini kiriting");
+
+// if (a > b) {
+//     console.log("b soni tartib raqam",b );
+    
+// } else {
+//     console.log("a soni tartib raqam", a);
+// }
