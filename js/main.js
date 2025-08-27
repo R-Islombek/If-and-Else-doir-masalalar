@@ -218,3 +218,13 @@
 // } else {
 //     console.log("a soni tartib raqam", a);
 // }
+
+// 15-Masala;
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+
+if (a > b) {
+    alert("a soni chiqsin", a)
+} else {
+    alert("b sonini chiqsin", b)
+}
