@@ -360,6 +360,17 @@
 //       console.log("raqam=", 4);
 // }
 
+// 27-Masala;
+
+
+// let year = prompt("Yilni kiriting");
+
+// if (year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0)) {
+//     console.log("Kabisa yili");
+// } else {
+//     console.log("Kabisa yili emas");
+// }
+
 
 
 
