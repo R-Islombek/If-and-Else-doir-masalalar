@@ -386,6 +386,30 @@
 //     console.log("3 xonali toq");
 // }
 
+// 29-Masala;
+
+// let baho = Number(prompt("baho kiriting"))
+
+// switch (baho) {
+//     case 1:
+//         console.log("yomon");
+//         break
+//     case 2:
+//         console.log("Qoniqarsiz");
+//         break
+//     case 3:
+//         console.log("Qoniqarli");
+//         break
+//     case 4:
+//         console.log("Yaxshi");
+//         break
+//     case 5:
+//         console.log("A'lo");
+//         break
+//     default:
+//         console.log("1 dan 5 gacha bo'lgan raqam kiriting");  
+// }
+
 
 
 
