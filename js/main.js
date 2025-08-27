@@ -348,6 +348,17 @@
 //     console.log("tartib raqam yoq");
 // }
 
+// 26-Masala;
+
+// let number = prompt("Nomer kiriting");
+
+// if (number <= 0) {
+//     console.log("raqam =" -number); 
+// } else if(0 < number && number < 2) {
+//     console.log("raqam =", number**2);
+// }else if(number <= 2 ){
+//       console.log("raqam=", 4);
+// }
 
 
 
