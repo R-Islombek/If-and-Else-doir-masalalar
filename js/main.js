@@ -214,7 +214,7 @@
 
 // if (a > b) {
 //     console.log("b soni tartib raqam",b );
-    
+
 // } else {
 //     console.log("a soni tartib raqam", a);
 // }
@@ -252,7 +252,7 @@
 //      console.log("a + b =",a + b);
 // } else {
 //     console.log("O ga teng bo'slin", 0);
-    
+
 // }
 
 // 19-Masala;
@@ -262,7 +262,7 @@
 
 // if ( a !== b && a > b ) {
 //     console.log("Katta son =", a);
-    
+
 // } else if(a !== b && a < b){
 //     console.log("katta son =", b);
 // }
@@ -274,7 +274,7 @@
 
 // if ( a !== b && a > b ) {
 //     console.log("Katta son =", a);
-    
+
 // } else if(a !== b && a < b){
 //     console.log("katta son =", b);
 // }
@@ -369,8 +369,22 @@
 //     console.log("Kabisa yili");
 // } else {
 //     console.log("Kabisa yili emas");
-// }
+// }    
 
+// 28-Masala;
+
+// let number = prompt("Nomer kiriting");
+
+// if (number >= 10 && number < 100 && number % 2 === 0) {
+//     console.log("2 xonali juft");
+
+// } else if (number >= 10 && number < 100 && number % 2 !== 0) {
+//     console.log("2 xonali toq");
+// } else if ((number >= 100 && number < 1000 && number % 2 === 0)) {
+//     console.log("3 xonali juft");
+// } else if ((number >= 100 && number < 1000 && number % 2 !== 0)) {
+//     console.log("3 xonali toq");
+// }
 
 
 
