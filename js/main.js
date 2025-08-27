@@ -304,6 +304,18 @@
 
 // console.log(orta);
 
+// 23-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if (a < b && b < c && a < c) {
+//     console.log(2 *a * b * c);
+// } else {
+//     console.log(-(a, b, c));
+// }
+
 
 
 
