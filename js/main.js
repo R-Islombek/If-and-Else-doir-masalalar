@@ -197,3 +197,14 @@
 
 // console.log("Musbat sonlar,=", musbat, "Manfiy sonlar =", manfiy);
 
+// 13-Masala
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// let katta = Math.max(a, b);
+// let kichik = Math.min(a, b);
+
+// console.log("katta", katta, "kichik", kichik);
+
+
