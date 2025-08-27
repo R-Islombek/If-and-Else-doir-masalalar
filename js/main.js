@@ -154,3 +154,15 @@
 // } else {
 //     alert(number)
 // }
+
+// 11-Masala;
+
+// let number = prompt("sonlarni kiriting");
+
+// if ( number > 0) {
+//     alert(number + 1)
+// } else if(number < 0) {
+//      alert(number - 2)
+// }else{
+//     alert(10)
+// }
