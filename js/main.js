@@ -135,4 +135,22 @@
 
 // console.log(qoshish, ayir, kop, bol);
 
+// 9-Masala;
 
+
+
+
+
+
+
+
+
+// 10-Masala;
+
+// let number = prompt("sonlarni kiriting");
+
+// if (number > 0) {
+//     alert(number + 1)
+// } else {
+//     alert(number)
+// }
