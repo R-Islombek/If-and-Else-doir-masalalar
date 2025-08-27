@@ -289,3 +289,23 @@
 
 // console.log("kichik son",kichik );
 
+// 22-Masala;
+
+// let a = Number(prompt("a sonini kiriting"));
+// let b = Number(prompt("b sonini kiriting"));
+// let c = Number(prompt("c sonini kiriting"));
+
+// let katta = Math.max(a, b, c);
+// let kichik = Math.min(a, b, c);
+
+// let sum = katta + kichik;
+// let umumiy = a + b + c;
+// let orta = umumiy - sum;
+
+// console.log(orta);
+
+
+
+
+
+
