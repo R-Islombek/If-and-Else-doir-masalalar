@@ -245,12 +245,24 @@
 
 // 18-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
 
-if (a !== b) {
-     console.log("a + b =",a + b);
-} else {
-    console.log("O ga teng bo'slin", 0);
+// if (a !== b) {
+//      console.log("a + b =",a + b);
+// } else {
+//     console.log("O ga teng bo'slin", 0);
     
-}
+// }
+
+// 19-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if ( a !== b && a > b ) {
+//     console.log("Katta son =", a);
+    
+// } else if(a !== b && a < b){
+//     console.log("katta son =", b);
+// }
