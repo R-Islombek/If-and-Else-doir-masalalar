@@ -49,4 +49,20 @@
 
 // console.log("katta son =", katta, "Kichik son ,=", kichik);
 
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if (a === b) {
+//   console.log("3-son boshqacha");
+// } else if (a === c) {
+//   console.log("2-son boshqacha");
+// } else if (b === c) {
+//   console.log("1-son boshqacha");
+// } else {
+//   console.log("Hech qaysi ikkitasi teng emas");
+// }
+
 
