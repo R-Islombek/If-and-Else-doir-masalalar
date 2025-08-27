@@ -266,3 +266,15 @@
 // } else if(a !== b && a < b){
 //     console.log("katta son =", b);
 // }
+
+// 20-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if ( a !== b && a > b ) {
+//     console.log("Katta son =", a);
+    
+// } else if(a !== b && a < b){
+//     console.log("katta son =", b);
+// }
