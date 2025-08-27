@@ -65,4 +65,14 @@
 //   console.log("Hech qaysi ikkitasi teng emas");
 // }
 
+// 5-Masala;
+
+// let number = prompt("a sonini kiriting");
+
+// if ( number < -2 || number > 2 ) {
+//     alert(number * 2)
+// } else {
+//     alert(-3 * number)
+// }
+
 
