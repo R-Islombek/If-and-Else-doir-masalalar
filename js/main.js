@@ -529,3 +529,13 @@
 // else if (v === 14) qiymat = "tuz";
 
 // console.log(qiymat, turi);
+
+// 37-Masala;
+
+// let N = +prompt("Karta qiymatini kiriting (6-14):");
+// let M = +prompt("Karta turini kiriting (1-4):");
+
+// let qiymatlar = ["", "", "", "", "", "", "olti", "yetti", "sakkiz", "to‘qqiz", "o‘n", "valet", "dama", "qirol", "tuz"];
+// let turlar = ["", "g‘isht", "olma", "chillak", "qarg‘a"];
+
+// console.log(qiymatlar[N], turlar[M]);
