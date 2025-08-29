@@ -189,6 +189,7 @@
 //     alert(10)
 // }
 
+
 // 12-Masala;
 
 // let a = prompt("a sonini kiriting");
