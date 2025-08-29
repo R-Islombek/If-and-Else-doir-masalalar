@@ -539,3 +539,30 @@
 // let turlar = ["", "g‘isht", "olma", "chillak", "qarg‘a"];
 
 // console.log(qiymatlar[N], turlar[M]);
+
+// 38-Masala;
+
+// let n = +prompt("Masalalar sonini kiriting (10-40):");
+
+// let birlik = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
+// let onlar = ["", "o‘n", "yigirma", "o‘ttiz", "qirq"];
+
+// let s = "";
+
+// if (n < 20) {
+//   // 10-19 oralig‘i
+//   if (n === 10) s = "o‘n";
+//   else s = "o‘n " + birlik[n - 10];
+// } else if (n < 30) {
+//   // 20-29
+//   if (n === 20) s = "yigirma";
+//   else s = "yigirma " + birlik[n - 20];
+// } else if (n < 40) {
+//   // 30-39
+//   if (n === 30) s = "o‘ttiz";
+//   else s = "o‘ttiz " + birlik[n - 30];
+// } else if (n === 40) {
+//   s = "qirq";
+// }
+
+// console.log(s + "ta masala");
