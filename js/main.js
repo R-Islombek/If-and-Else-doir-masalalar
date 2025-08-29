@@ -509,3 +509,23 @@
 //   else if (Y === "g") Y = "s";
 //   console.log("Yangi yo‘nalish:", Y);
 // }
+
+// 36-Masala;
+
+// let t = +prompt("Karta turi (1-4):");
+// let v = +prompt("Karta qiymati (6-14):");
+
+// let turi = "";
+// if (t === 1) turi = "g‘isht";
+// else if (t === 2) turi = "olma";
+// else if (t === 3) turi = "chillak";
+// else if (t === 4) turi = "qarg‘a";
+
+// let qiymat = "";
+// if (v <= 10) qiymat = v;
+// else if (v === 11) qiymat = "valet";
+// else if (v === 12) qiymat = "dama";
+// else if (v === 13) qiymat = "qirol";
+// else if (v === 14) qiymat = "tuz";
+
+// console.log(qiymat, turi);
