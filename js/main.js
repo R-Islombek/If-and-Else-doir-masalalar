@@ -137,8 +137,30 @@
 
 // 9-Masala;
 
+// let n = +prompt("Yoshni kiriting (20-69):");
 
+// let s = "";
 
+// Onlik qismi
+// if (n >= 20 && n < 30) s = "yigirma";
+// else if (n >= 30 && n < 40) s = "o‘ttiz";
+// else if (n >= 40 && n < 50) s = "qirq";
+// else if (n >= 50 && n < 60) s = "ellik";
+// else if (n >= 60 && n < 70) s = "oltmish";
+
+// // Birlik qismi
+// let bir = n % 10;
+// if (bir === 1) s += " bir";
+// else if (bir === 2) s += " ikki";
+// else if (bir === 3) s += " uch";
+// else if (bir === 4) s += " to‘rt";
+// else if (bir === 5) s += " besh";
+// else if (bir === 6) s += " olti";
+// else if (bir === 7) s += " yetti";
+// else if (bir === 8) s += " sakkiz";
+// else if (bir === 9) s += " to‘qqiz";
+
+// console.log(s + " yosh");
 
 
 
