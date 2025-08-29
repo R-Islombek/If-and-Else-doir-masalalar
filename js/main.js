@@ -556,6 +556,7 @@
 // } else if (n < 30) {
 //   // 20-29
 //   if (n === 20) s = "yigirma";
+
 //   else s = "yigirma " + birlik[n - 20];
 // } else if (n < 40) {
 //   // 30-39
@@ -599,3 +600,5 @@
 // let hayvon = hayvonlar[(farq % 12 + 12) % 12];
 
 // console.log(yil + " - " + rang + " " + hayvon + " yili");
+
+// 41-Masala;
