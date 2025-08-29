@@ -442,44 +442,70 @@
 
 // 32-Masala;
 
-let birlik = +prompt("Birlik raqamini kiriting (1-5):");
-let qiymat = +prompt("Qiymatni kiriting:");
+// let birlik = +prompt("Birlik raqamini kiriting (1-5):");
+// let qiymat = +prompt("Qiymatni kiriting:");
 
-let kg;
+// let kg;
 
-if (birlik === 1) {
-  kg = qiymat; 
-} else if (birlik === 2) {
-  kg = qiymat / 1_000_000; 
-} else if (birlik === 3) {
-  kg = qiymat / 1000; 
-} else if (birlik === 4) {
-  kg = qiymat * 1000; 
-} else if (birlik === 5) {
-  kg = qiymat * 100;
-} else {
-  console.log("Noto‘g‘ri birlik kiritildi");
-}
+// if (birlik === 1) {
+//   kg = qiymat; 
+// } else if (birlik === 2) {
+//   kg = qiymat / 1_000_000; 
+// } else if (birlik === 3) {
+//   kg = qiymat / 1000; 
+// } else if (birlik === 4) {
+//   kg = qiymat * 1000; 
+// } else if (birlik === 5) {
+//   kg = qiymat * 100;
+// } else {
+//   console.log("Noto‘g‘ri birlik kiritildi");
+// }
 
-console.log("Kilogrammda:", kg);
+// console.log("Kilogrammda:", kg);
 
 
-// 33-Masala;
+// // 33-Masala;
 
-let D = +prompt("Kun:");
-let M = +prompt("Oy:");
-let kun = D;
+// let D = +prompt("Kun:");
+// let M = +prompt("Oy:");
+// let kun = D;
 
-if (M > 1) kun += 31;        // Yanvar
-if (M > 2) kun += 28;        // Fevral
-if (M > 3) kun += 31;        // Mart
-if (M > 4) kun += 30;        // Aprel
-if (M > 5) kun += 31;        // May
-if (M > 6) kun += 30;        // Iyun
-if (M > 7) kun += 31;        // Iyul
-if (M > 8) kun += 31;        // Avgust
-if (M > 9) kun += 30;        // Sentyabr
-if (M > 10) kun += 31;       // Oktabr
-if (M > 11) kun += 30;       // Noyabr
+// if (M > 1) kun += 31;        // Yanvar
+// if (M > 2) kun += 28;        // Fevral
+// if (M > 3) kun += 31;        // Mart
+// if (M > 4) kun += 30;        // Aprel
+// if (M > 5) kun += 31;        // May
+// if (M > 6) kun += 30;        // Iyun
+// if (M > 7) kun += 31;        // Iyul
+// if (M > 8) kun += 31;        // Avgust
+// if (M > 9) kun += 30;        // Sentyabr
+// if (M > 10) kun += 31;       // Oktabr
+// if (M > 11) kun += 30;       // Noyabr
 
-console.log("Sanaga to‘g‘ri keladigan tartib raqami:", kun);
+// console.log("Sanaga to‘g‘ri keladigan tartib raqami:", kun);
+
+// let Y = prompt("Yo‘nalishni kiriting (s, j, q, g):");
+// let K = +prompt("Kamanda kiriting (0,1,2):");
+
+// // Agar o‘zgarish bo‘lmasa
+// if (K === 0) {
+//   console.log("Yangi yo‘nalish:", Y);
+// }
+
+// // Chapga burilish
+// else if (K === 1) {
+//   if (Y === "s") Y = "g";
+//   else if (Y === "g") Y = "j";
+//   else if (Y === "j") Y = "q";
+//   else if (Y === "q") Y = "s";
+//   console.log("Yangi yo‘nalish:", Y);
+// }
+
+// // O‘ngga burilish
+// else if (K === 2) {
+//   if (Y === "s") Y = "q";
+//   else if (Y === "q") Y = "j";
+//   else if (Y === "j") Y = "g";
+//   else if (Y === "g") Y = "s";
+//   console.log("Yangi yo‘nalish:", Y);
+// }
