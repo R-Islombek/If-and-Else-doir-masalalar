@@ -464,3 +464,22 @@ if (birlik === 1) {
 console.log("Kilogrammda:", kg);
 
 
+// 33-Masala;
+
+let D = +prompt("Kun:");
+let M = +prompt("Oy:");
+let kun = D;
+
+if (M > 1) kun += 31;        // Yanvar
+if (M > 2) kun += 28;        // Fevral
+if (M > 3) kun += 31;        // Mart
+if (M > 4) kun += 30;        // Aprel
+if (M > 5) kun += 31;        // May
+if (M > 6) kun += 30;        // Iyun
+if (M > 7) kun += 31;        // Iyul
+if (M > 8) kun += 31;        // Avgust
+if (M > 9) kun += 30;        // Sentyabr
+if (M > 10) kun += 31;       // Oktabr
+if (M > 11) kun += 30;       // Noyabr
+
+console.log("Sanaga to‘g‘ri keladigan tartib raqami:", kun);
