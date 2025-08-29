@@ -566,3 +566,22 @@
 // }
 
 // console.log(s + "ta masala");
+
+// 39-Masala;
+
+
+// let n = +prompt("Son kiriting (100-999):");
+
+// let birlik = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
+// let onlar = ["", "o‘n", "yigirma", "o‘ttiz", "qirq", "ellik", "oltmish", "yetmish", "sakson", "to‘qson"];
+
+// let yuzlik = Math.floor(n / 100);      // yuzlar xonasidagi raqam
+// let onlik = Math.floor((n % 100) / 10); // onlar xonasidagi raqam
+// let bir = n % 10;                      // birlik xonasidagi raqam
+
+// let s = birlik[yuzlik] + " yuz";
+
+// if (onlik > 0) s += " " + onlar[onlik];
+// if (bir > 0) s += " " + birlik[bir];
+
+// console.log(s);
