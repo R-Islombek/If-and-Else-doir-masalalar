@@ -585,3 +585,17 @@
 // if (bir > 0) s += " " + birlik[bir];
 
 // console.log(s);
+
+// 40-Masala;
+
+// let yil = +prompt("Yilni kiriting:");
+
+// let ranglar = ["yashil", "yashil", "qizil", "qizil", "sariq", "sariq", "oq", "oq", "qora", "qora"];
+// let hayvonlar = ["sichqon", "sigir", "yo'lbars", "quyon", "ajdar", "ilon", "ot", "qo'y", "maymun", "tovuq", "it", "to'ng'iz"];
+
+// let farq = yil - 1984;
+
+// let rang = ranglar[(farq % 10 + 10) % 10];
+// let hayvon = hayvonlar[(farq % 12 + 12) % 12];
+
+// console.log(yil + " - " + rang + " " + hayvon + " yili");
