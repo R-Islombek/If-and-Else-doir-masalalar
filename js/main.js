@@ -499,6 +499,25 @@
 // } else {
 //   console.log("Noto‘g‘ri birlik kiritildi");
 // }
+// let birlik = +prompt("Birlik raqamini kiriting (1-5):");
+// let qiymat = +prompt("Qiymatni kiriting:");
+
+// let kg;
+
+// if (birlik === 1) {
+//   kg = qiymat; 
+// } else if (birlik === 2) {
+//   kg = qiymat / 1_000_000; 
+// } else if (birlik === 3) {
+//   kg = qiymat / 1000; 
+// } else if (birlik === 4) {
+//   kg = qiymat * 1000; 
+// } else if (birlik === 5) {
+//   kg = qiymat * 100;
+// } else {
+//   console.log("Noto‘g‘ri birlik kiritildi");
+// }
+
 
 // console.log("Kilogrammda:", kg);
 
