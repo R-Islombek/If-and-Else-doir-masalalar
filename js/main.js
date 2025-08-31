@@ -75,6 +75,8 @@
 //     alert(-3 * number)
 // }
 
+
+
 // 6-Masala;
 
 // let number = Number(prompt("raqam kiriting"));
