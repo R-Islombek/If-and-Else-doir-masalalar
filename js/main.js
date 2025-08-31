@@ -540,6 +540,7 @@
 // if (M > 10) kun += 31;       // Oktabr
 // if (M > 11) kun += 30;       // Noyabr
 
+
 // console.log("Sanaga to‘g‘ri keladigan tartib raqami:", kun);
 
 // let Y = prompt("Yo‘nalishni kiriting (s, j, q, g):");
