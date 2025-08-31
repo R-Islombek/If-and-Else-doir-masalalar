@@ -407,16 +407,7 @@
 //     console.log("Kabisa yili emas");
 // }    
 
-// 27-Masala;
-
-
-// let year = prompt("Yilni kiriting");
-
-// if (year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0)) {
-//     console.log("Kabisa yili");
-// } else {
-//     console.log("Kabisa yili emas");
-// }    
+  
 
 // 28-Masala;
 
@@ -472,6 +463,7 @@
 // } else {
 //   console.log("Noto‘g‘ri oy raqami kiritildi!");
 // }
+
 
 // 31-Masala;
 
