@@ -382,23 +382,7 @@
 //     console.log("tartib raqam yoq");
 // }
 
-// let a = prompt("a sonini kiriting");
-// let b = prompt("b sonini kiriting");
-// let c = prompt("c sonini kiriting");
-// let d = prompt("d sonini kiriting");
 
-// if (a === b && b === c) {
-//     console.log("d tartib raqam");
-// } else if (a === b && b === d){
-//     console.log("c tartib raqam");
-// }else if (a === c && c === d){
-//     console.log("b tartib raqam");
-// }
-// else if (b === c && c === d){
-//     console.log("a tartib raqam");
-// }else{
-//     console.log("tartib raqam yoq");
-// }
 
 // 26-Masala;
 
@@ -411,6 +395,17 @@
 // }else if(number <= 2 ){
 //       console.log("raqam=", 4);
 // }
+
+// 27-Masala;
+
+
+// let year = prompt("Yilni kiriting");
+
+// if (year % 400 === 0 || (year % 4 === 0 && year % 100 !== 0)) {
+//     console.log("Kabisa yili");
+// } else {
+//     console.log("Kabisa yili emas");
+// }    
 
 // 27-Masala;
 
