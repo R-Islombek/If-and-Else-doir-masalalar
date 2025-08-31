@@ -311,17 +311,7 @@
 //     console.log("katta son =", b);
 // }
 
-// 20-Masala;
 
-// let a = prompt("a sonini kiriting");
-// let b = prompt("b sonini kiriting");
-
-// if ( a !== b && a > b ) {
-//     console.log("Katta son =", a);
-
-// } else if(a !== b && a < b){
-//     console.log("katta son =", b);
-// }
 
 // 21-Masala;
 
@@ -373,6 +363,24 @@
 // }
 
 // 25-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+// let d = prompt("d sonini kiriting");
+
+// if (a === b && b === c) {
+//     console.log("d tartib raqam");
+// } else if (a === b && b === d){
+//     console.log("c tartib raqam");
+// }else if (a === c && c === d){
+//     console.log("b tartib raqam");
+// }
+// else if (b === c && c === d){
+//     console.log("a tartib raqam");
+// }else{
+//     console.log("tartib raqam yoq");
+// }
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting");
