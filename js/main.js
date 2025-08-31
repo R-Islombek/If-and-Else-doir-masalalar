@@ -297,7 +297,9 @@
 // } else if(a !== b && a < b){
 //     console.log("katta son =", b);
 // }
-// 19-Masala;
+
+
+// 20-Masala;
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting");
