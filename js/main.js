@@ -234,15 +234,7 @@
 
 // console.log("katta", katta, "kichik", kichik);
 
-// 13-Masala
 
-// let a = prompt("a sonini kiriting");
-// let b = prompt("b sonini kiriting");
-
-// let katta = Math.max(a, b);
-// let kichik = Math.min(a, b);
-
-// console.log("katta", katta, "kichik", kichik);
 
 // 14-Masala;
 
@@ -279,6 +271,8 @@
 // let y1 = y;
 
 // console.log(x1, y1);
+
+
 
 // 18-Masala;
 
