@@ -94,6 +94,23 @@
 //     console.log("0");
 // }
 
+// 6-Masala;
+
+// let number = Number(prompt("raqam kiriting"));
+
+// if (number > 0 && number % 2 !== 0 ) {
+//     console.log("musbat toq", number);
+
+// } else if(number > 0 &&  number % 2 ===0) {
+//     console.log("musbat juft", number);
+// }else if(number < 0 && number % 2 !== 0){
+//    console.log("manfiy toq", number);
+// }else if(number < 0 && number % 2 === 0){
+//    console.log("manfiy juft", number);
+// }else if(number === 0){
+//     console.log("0");
+// }
+
 // 7-Masala;
 
 // let day = prompt("Hafta kunlarini kiriting");
